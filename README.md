@@ -31,7 +31,7 @@ A Python tool that fetches and cleans webpage content, then uses a local LLaMA3 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/website-summarizer.git
+   git clone https://github.com/priyankamorajkar/web-summarizer.git
    cd website-summarizer
    ```
 2. **Install dependencies**
