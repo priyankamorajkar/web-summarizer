@@ -1,6 +1,6 @@
 # Website Content Summarizer using LLaMA3
 
-A Python tool that fetches and cleans webpage content, then uses a local LLaMA3 language model (via Ollama API) to generate concise markdown summaries — perfect for quick insights on any website.
+A Python tool that fetches and cleans webpage content, then uses a local LLaMA3 language model (via Ollama API) to generate concise markdown summaries - perfect for quick insights on any website.
 
 ---
 
